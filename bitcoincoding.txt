@@ -1,0 +1,155 @@
+MEMORANDUM
+
+DATE: 15 August 2026
+
+SUBJECT: Founding of a High-Performance Bitcoin SHA-256 Engineering Operation
+
+
+PURPOSE
+
+Establish a specialist software and systems-engineering company dedicated to developing high-quality, high-performance Bitcoin mining software designed to improve the efficiency, reliability and economic competitiveness of SHA-256 mining operations.
+
+
+CORE PROPOSITION
+
+The company should build a vertically integrated SHA-256 performance stack:
+
+        ASIC HARDWARE
+             │
+             ▼
+      LOW-LEVEL FIRMWARE
+             │
+             ▼
+       SHA-256 ENGINE
+             │
+             ▼
+     WORK DISPATCH / STRATUM
+             │
+             ▼
+       TELEMETRY ENGINE
+             │
+             ▼
+   PERFORMANCE OPTIMISATION
+             │
+             ▼
+       MINING ECONOMICS
+
+
+TECHNICAL PROGRAMME
+
+Build the core infrastructure primarily in RUST, concentrating on:
+
+• ASIC communication and work scheduling
+• Stratum infrastructure
+• High-performance networking
+• Telemetry
+• Fault detection
+• Thermal and power monitoring
+• Firmware interfaces
+• Latency reduction
+• Automatic recovery
+• Fleet orchestration
+• Performance benchmarking
+
+Develop a complementary R quantitative research environment for:
+
+• Hashrate analysis
+• J/TH optimisation
+• Energy economics
+• Monte Carlo modelling
+• ASIC benchmarking
+• Profitability analysis
+• Firmware A/B testing
+• Fleet-level optimisation
+
+
+COMPETITIVE PHILOSOPHY
+
+The operation should compete through engineering quality rather than merely
+purchasing more machines.
+
+The central research question is:
+
+"How much additional economically useful SHA-256 work can superior software
+extract from the same hardware and electricity supply?"
+
+The objective is therefore to optimise:
+
+• Effective hashrate
+• Energy efficiency
+• Uptime
+• Share acceptance
+• Hardware utilisation
+• Thermal stability
+• Power efficiency
+• Cost per unit of useful hashing
+
+
+INITIAL DEVELOPMENT PROGRAMME
+
+Phase I — Research
+
+Establish a controlled laboratory environment for benchmarking ASICs,
+networking, firmware behaviour, power consumption and thermal performance.
+
+Phase II — Software
+
+Develop the Rust-based mining control and orchestration layer together with
+the R-based quantitative research and optimisation environment.
+
+Phase III — Benchmarking
+
+Compare the system against established mining software using controlled,
+repeatable measurements.
+
+Phase IV — Production
+
+Deploy progressively to a small production fleet, measure real-world
+performance, and use the resulting telemetry to improve the software.
+
+Phase V — Scaling
+
+Expand the software across larger fleets and develop commercial software,
+management and optimisation products for Bitcoin mining operators.
+
+
+OPERATING PRINCIPLE
+
+The company should not define success simply as maximum nominal hashrate.
+
+The relevant metric is:
+
+ECONOMICALLY USEFUL SHA-256 OUTPUT
+=
+HASHRATE × UPTIME × ACCEPTANCE × ENERGY EFFICIENCY
+
+subject to:
+
+• Hardware limitations
+• Electricity cost
+• Thermal constraints
+• Network conditions
+• Reliability
+• Capital expenditure
+• Operating expenditure
+
+
+LONG-TERM OBJECTIVE
+
+Build a reference-quality, auditable and highly optimised Bitcoin mining
+software stack capable of extracting the maximum economically useful
+performance from available SHA-256 hardware.
+
+The long-term ambition is not simply to become another Bitcoin mining
+operator.
+
+It is to become a specialist computational-engineering company whose
+principal competitive advantage is superior SHA-256 software, control
+systems, data analysis and hardware utilisation.
+
+
+STRATEGIC THESIS
+
+"In an ASIC-dominated Bitcoin market, the next competitive frontier is not
+necessarily more hardware — it is better software, better control systems,
+better data and better utilisation of every joule."
